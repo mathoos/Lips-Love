@@ -115,7 +115,6 @@ nav{
     display: flex;
     width: 80%;
     height: 80%;
-    background-color: yellow;
 }
 #navigation{
     display: flex;
@@ -123,14 +122,11 @@ nav{
     justify-content: center;
     width: 50%;
     height: 100%;
-    background-color: green;
 }
 .index{
     display: flex;
     align-items: center;
     width: 100%;
-    background-color: grey;
-    border: solid black 2px;
     box-sizing: border-box;
     
 }
@@ -141,14 +137,12 @@ nav{
 .numero{
     display: flex;
     align-items: center;
-    width: 10%;
-    background-color: orange;    
+    width: 10%; 
 }
 
 .titre-index{
     display: flex;
     align-items: flex-end;
-    background-color: brown;
 }
 .numero p, .titre-index p{
     font-family: "Haarlem Deco DEMO";
@@ -167,13 +161,10 @@ nav{
     align-items: center;
     width: 50%;
     height: 100%;
-    background-color: orange;
 }
 #photographie{
     width: 85%;
     height: 85%;
-    
-    background-color: yellow;
 }
 #photographie img{
     width: 100%;
@@ -184,7 +175,6 @@ nav{
 #bas{
     width: 80%;
     height: 20%;
-    background-color: purple;
 }
 
 /* LOGO ET INFO */
